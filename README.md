@@ -1,4 +1,4 @@
-# Personalized Movie Recommendation System
+# Smart Movie Recommender: Personalizing Entertainment with Advanced Analytics
 
 ## Overview
 
